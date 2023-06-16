@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/enazec/Documents/US%20Healthcare%20Engineering/Machine%20Learning/MLFLOW/MLFLOW_2/mlruns/0/3e9caed81c194a90a53b36c5f2d5f07b/artifacts
+end_time: 1686296959598
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3e9caed81c194a90a53b36c5f2d5f07b
+run_name: carefree-mole-338
+run_uuid: 3e9caed81c194a90a53b36c5f2d5f07b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686296959223
+status: 3
+tags: []
+user_id: enazec

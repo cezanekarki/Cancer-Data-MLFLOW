@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/enazec/Documents/US%20Healthcare%20Engineering/Machine%20Learning/MLFLOW/MLFLOW_2/mlruns/0/e8951e7635474b82abe453e1e521e3f1/artifacts
+end_time: 1686296891717
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e8951e7635474b82abe453e1e521e3f1
+run_name: marvelous-cub-92
+run_uuid: e8951e7635474b82abe453e1e521e3f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686296891323
+status: 3
+tags: []
+user_id: enazec

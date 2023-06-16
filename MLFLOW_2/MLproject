@@ -1,0 +1,9 @@
+name: mlproject
+python_env: python_env.yaml
+entry_points:
+  train:
+    command: "python demo.py"
+  predict:
+    parameters:
+      filename: {type: string, default: model.pkl}
+    command: "python predict.py {filename}"

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/enazec/Documents/US%20Healthcare%20Engineering/Machine%20Learning/MLFLOW/MLFLOW_2/mlruns/0/4111fb9ebbbf4268a607b34e9d381a3f/artifacts
+end_time: 1686495517099
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4111fb9ebbbf4268a607b34e9d381a3f
+run_name: adorable-gnu-896
+run_uuid: 4111fb9ebbbf4268a607b34e9d381a3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686495516366
+status: 3
+tags: []
+user_id: enazec

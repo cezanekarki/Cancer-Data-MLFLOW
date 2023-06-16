@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/enazec/Documents/US%20Healthcare%20Engineering/Machine%20Learning/MLFLOW/MLFLOW_2/mlruns/0/59146283264d4e91b196b2dbe6cc59b0/artifacts
+end_time: 1686300065525
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 59146283264d4e91b196b2dbe6cc59b0
+run_name: lyrical-doe-634
+run_uuid: 59146283264d4e91b196b2dbe6cc59b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686300064939
+status: 3
+tags: []
+user_id: enazec

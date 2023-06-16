@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/enazec/Documents/US%20Healthcare%20Engineering/Machine%20Learning/MLFLOW/MLFLOW_2/mlruns/0/8ef109a111f440fb8eb44758801dc8e2/artifacts
+end_time: 1686302527716
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8ef109a111f440fb8eb44758801dc8e2
+run_name: nebulous-fawn-799
+run_uuid: 8ef109a111f440fb8eb44758801dc8e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686302464120
+status: 3
+tags: []
+user_id: enazec

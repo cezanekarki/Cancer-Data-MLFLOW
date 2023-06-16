@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/enazec/Documents/US%20Healthcare%20Engineering/Machine%20Learning/MLFLOW/MLFLOW_2/mlruns/0/c710361fec0c49b4b15c791ca7cbf5fb/artifacts
+end_time: 1686301520602
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c710361fec0c49b4b15c791ca7cbf5fb
+run_name: chill-boar-22
+run_uuid: c710361fec0c49b4b15c791ca7cbf5fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686301519971
+status: 3
+tags: []
+user_id: enazec

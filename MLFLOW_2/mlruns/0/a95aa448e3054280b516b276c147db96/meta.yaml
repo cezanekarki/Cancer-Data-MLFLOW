@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/enazec/Documents/US%20Healthcare%20Engineering/Machine%20Learning/MLFLOW/MLFLOW_2/mlruns/0/a95aa448e3054280b516b276c147db96/artifacts
+end_time: 1686495515079
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a95aa448e3054280b516b276c147db96
+run_name: caring-sponge-644
+run_uuid: a95aa448e3054280b516b276c147db96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686495509927
+status: 3
+tags: []
+user_id: enazec
